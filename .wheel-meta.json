@@ -1,0 +1,22 @@
+{
+  "wheel_id": 803,
+  "structure": "umbrella",
+  "slug": "retainingwallquote-114",
+  "project": "retaining-wall-quotes-seasonal-timing-866f80d57a8d8b89ed9645bce",
+  "parent_t1_ref": "retainingwallquote-156",
+  "node_role": "feeder",
+  "money_target": "retainingwallquote.com.au",
+  "primary_kw": "retaining wall quotes seasonal timing",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-quotes-seasonal-timing-866f80d57a8d8b89ed9645bce/",
+  "tier": "T2",
+  "writeback_nonce": "fab3ee71b4e49dbd",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-quotes-diy-vs-professional-3d205dd9593e638e31d91.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "more on retaining wall quotes diy vs professional",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
